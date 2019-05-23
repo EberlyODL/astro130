@@ -1,0 +1,32 @@
+{
+  "regex": [
+    {
+      "pattern": "src=\"\/astro130\/",
+      "replacement": "src=\"http:\/\/courses.ed.science.psu.edu\/astro130\/"
+    },
+    {
+      "pattern": "href=\"\/astro130\/",
+      "replacement": "href=\"http:\/\/courses.ed.science.psu.edu\/astro130\/"
+    },
+    {
+      "pattern": "&lt;",
+      "replacement": "<"
+    },
+    {
+      "pattern": "&gt;",
+      "replacement": ">"
+    },
+    {
+      "pattern": "&quot;",
+      "replacement": "\""
+    },
+    {
+      "pattern": "(\\<lrn-math>([\s\S]*)\)</lrn-math>",
+      "replacement": "$1_$3"
+    },
+    {
+      "pattern": "(\\$\\$)([^\\$\\$]*)(\\$\\$)",
+      "replacement": "<lrn-math>$2</lrn-math>"
+    }
+  ]
+}

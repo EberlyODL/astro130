@@ -6,16 +6,926 @@
     <description></description>
     <copyright>Copyright (C) 2019 </copyright>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 May 2019 09:14:42 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 09:15:04 -0600</lastBuildDate>
     <atom:link href="/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>New page</title>
-      <link>/item-14a26665-d0ac-4742-8af4-6ffbc6369f66</link>
+      <title>Unit Outline</title>
+      <link>/unit-outline</link>
       <description>
           <![CDATA[  ]]>
       </description>
       <category></category>
-      <guid>/item-14a26665-d0ac-4742-8af4-6ffbc6369f66</guid>
+      <guid>/unit-outline</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Orientation</title>
+      <link>/unit-outline/orientation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/orientation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>/unit-outline/orientation/introduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/orientation/introduction</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Course Navigation</title>
+      <link>/unit-outline/orientation/course-navigation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/orientation/course-navigation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Unit 1: Spacetime, Special and General Relativity </title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 2: Light, Spectra and the Doppler Effect</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of Spectra</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/types-of-spectra</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/types-of-spectra</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Spectra are Formed</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/how-spectra-are-formed</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/how-spectra-are-formed</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Doppler Effect</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/the-doppler-effect</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-2-light-spectra-and-the-doppler-effect/the-doppler-effect</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 3: Newton’s and Einstein’s Theories of Gravity (Escape Velocity, Spacetime)</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How Does Gravity Keep Objects in Orbit?</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/how-does-gravity-keep-objects-in-orbit</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/how-does-gravity-keep-objects-in-orbit</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Escape Velocity and the Definition of a Black Hole</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/escape-velocity-and-the-definition-of-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/escape-velocity-and-the-definition-of-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Weightlessness</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/weightlessness</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/weightlessness</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Spacetime</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/spacetime</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/spacetime</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Rubber Sheet Analogy for Spacetime</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/spacetime/the-rubber-sheet-analogy-for-spacetime</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-3-newton’s-and-einstein’s-theories-of-gravity-escape-velocity-spacetime/spacetime/the-rubber-sheet-analogy-for-spacetime</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 4: Special Theory of Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/relativity</link>
+      <description>
+          <![CDATA[ Why Do We Need Relativity?For standard situations like throwing a ball up in the air and describing how and when it will fall down, Newton’s Laws work just fine. However, when we talk about the be ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Key Ideas of Special Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Speed of Light</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-speed-of-light</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-speed-of-light</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Why Can Nothing Travel Faster than the Speed of Light?</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-speed-of-light/why-can-nothing-travel-faster-than-the-speed-of-light</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-speed-of-light/why-can-nothing-travel-faster-than-the-speed-of-light</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Time Dilation</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/time-dilation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/time-dilation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Length Contraction</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/length-contraction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/length-contraction</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Mass Increase</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/mass-increase</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/mass-increase</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Simultaneity of Events</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/simultaneity-of-events</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/simultaneity-of-events</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Twin Paradox</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-twin-paradox</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/key-ideas-of-special-relativity/the-twin-paradox</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Observational Evidence of Special Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/observational-evidence-of-special-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-4-special-theory-of-relativity/observational-evidence-of-special-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 5: General Theory of Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Equivalence Principle</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/the-equivalence-principle</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/the-equivalence-principle</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gravitational Time Dilation</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-time-dilation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-time-dilation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>The Effect of Gravity on Light</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/the-effect-of-gravity-on-light</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/the-effect-of-gravity-on-light</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gravitational Redshift</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-redshift</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-redshift</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gravitational Lensing</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-lensing</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-lensing</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Examples of Lensed Objects in the Universe</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-lensing/examples-of-lensed-objects-in-the-universe</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/gravitational-lensing/examples-of-lensed-objects-in-the-universe</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Observational Evidence of General Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Testing Gravitational Lensing </title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity/testing-gravitational-lensing</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity/testing-gravitational-lensing</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Gravitational Waves as a Test of General Relativity</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity/gravitational-waves-as-a-test-of-general-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-5-general-theory-of-relativity/observational-evidence-of-general-relativity/gravitational-waves-as-a-test-of-general-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 1: Introduction to Black Holes</title>
+      <link>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-1-introduction-to-black-holes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-1-spacetime-special-and-general-relativity/lesson-1-introduction-to-black-holes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Unit 2: Types of Black Holes and their Characteristics</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Special Relativity</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/introduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/introduction</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Content page</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/content-page</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/content-page</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Summary</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/summary</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/special-relativity/summary</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>General Relativity, Curvature of Spacetime</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/introduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/introduction</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Content page</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/content-page</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/content-page</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Summary</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/summary</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/general-relativity-curvature-of-spacetime/summary</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Galaxies and Supermassive Black Holes</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/introduction</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/introduction</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Content page</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/content-page</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/content-page</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Summary</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/summary</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/galaxies-and-supermassive-black-holes/summary</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Stars and Their Fates</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/stars-and-their-fates</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/stars-and-their-fates</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How to Detect a Black Hole</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/how-to-detect-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/how-to-detect-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Active Galactic Nuclei, Jets</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/active-galactic-nuclei-jets</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/active-galactic-nuclei-jets</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Quiet Black Holes in Galactic Nuclei and Cosmic Feedback</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Black Holes that Formed in the Early Universe</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/black-holes-that-formed-in-the-early-universe</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/black-holes-that-formed-in-the-early-universe</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>What are MASERs? </title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/what-are-masers</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/what-are-masers</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 11</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/lesson-11</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/quiet-black-holes-in-galactic-nuclei-and-cosmic-feedback/lesson-11</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 6: Stars and Their Fates</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Supernova Explosions</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates/supernova-explosions</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates/supernova-explosions</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Neutron Stars</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates/neutron-stars</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-6-stars-and-their-fates/neutron-stars</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 7: X-ray Binary Star Systems</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Accretion</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/accretion</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/accretion</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Converting Mass to Energy with a Black Hole</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/converting-mass-to-energy-with-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/converting-mass-to-energy-with-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Summary on Methods for Finding Stellar-Mass Black Holes</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/summary-on-methods-for-finding-stellar-mass-black-holes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-7-x-ray-binary-star-systems/summary-on-methods-for-finding-stellar-mass-black-holes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 8: Quasars and Kin</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Types of Active Nuclei Galaxies</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin/types-of-active-nuclei-galaxies</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin/types-of-active-nuclei-galaxies</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Summary Questions</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin/summary-questions</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-8-quasars-and-kin/summary-questions</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 9: Jets</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-9-jets</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-9-jets</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Superluminal Motion in Quasar Jets: an Optical Illusion</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-9-jets/superluminal-motion-in-quasar-jets-an-optical-illusion</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-9-jets/superluminal-motion-in-quasar-jets-an-optical-illusion</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 10: Black Holes in Hibernation</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>What are MASERs? </title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/what-are-masers</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/what-are-masers</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Are Black Holes Fussy Eaters?</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/are-black-holes-fussy-eaters</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/are-black-holes-fussy-eaters</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>How do Supermassive Black Holes in Centers of Galaxies Form?</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/how-do-supermassive-black-holes-in-centers-of-galaxies-form</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/how-do-supermassive-black-holes-in-centers-of-galaxies-form</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Black Holes and their Host Galaxies</title>
+      <link>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/black-holes-and-their-host-galaxies</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-2-types-of-black-holes-and-their-characteristics/lesson-10-black-holes-in-hibernation/black-holes-and-their-host-galaxies</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Unit 3: Evaporation of Black Holes, Wormholes, and Time Travel</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 11: Evaporating Black Holes</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Checking up on Einstein </title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/checking-up-on-einstein</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/checking-up-on-einstein</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Could some Black Holes be Primordial?</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/could-some-black-holes-be-primordial</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/could-some-black-holes-be-primordial</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Hawking’s “Area Theorem”</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/hawking’s-“area-theorem”</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/hawking’s-“area-theorem”</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Hawking Radiation </title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/hawking-radiation</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-11-evaporating-black-holes/hawking-radiation</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 12: Schwarzschild Radius and Tides</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Schwarzschild Radius</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/schwarzschild-radius</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/schwarzschild-radius</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Does a Black Hole have a Surface?</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/does-a-black-hole-have-a-surface</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/does-a-black-hole-have-a-surface</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Singularity</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/singularity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/singularity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Tides</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/tides</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/tides</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Physical Properties and Types of Black Holes</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/physical-properties-and-types-of-black-holes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-12-schwarzschild-radius-and-tides/physical-properties-and-types-of-black-holes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Lesson 13: Falling Into a Black Hole and Wormholes</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Falling into a black hole</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/falling-into-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/falling-into-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Is Spacetime Moving Faster than the Speed of Light Near a Black Hole?</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/is-spacetime-moving-faster-than-the-speed-of-light-near-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/is-spacetime-moving-faster-than-the-speed-of-light-near-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Back to Falling into a Black Hole</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/back-to-falling-into-a-black-hole</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/back-to-falling-into-a-black-hole</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>What is Inside a Singularity?</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/what-is-inside-a-singularity</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/what-is-inside-a-singularity</guid>
+      <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
+    </item>
+    <item>
+      <title>Wormholes</title>
+      <link>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/wormholes</link>
+      <description>
+          <![CDATA[  ]]>
+      </description>
+      <category></category>
+      <guid>/unit-outline/unit-3-evaporation-of-black-holes-wormholes-and-time-travel/lesson-13-falling-into-a-black-hole-and-wormholes/wormholes</guid>
       <pubDate>Wed, 31 Dec 1969 17:00:00 -0700</pubDate>
     </item>
   </channel>
