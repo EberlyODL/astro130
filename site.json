@@ -154,7 +154,17 @@
                         "div": 3
                     },
                     "elements": 32
-                }
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/html\/sites\/astro130\/files\/scale-50\/05_05_figureb-anno.jpg",
+                        "fullUrl": "\/sites\/astro130\/files\/scale-50\/05_05_figureb-anno.jpg",
+                        "url": "files\/scale-50\/05_05_figureb-anno.jpg",
+                        "type": "image\/jpeg",
+                        "name": "05_05_figureb-anno.jpg",
+                        "size": 205788
+                    }
+                ]
             }
         },
         {
