@@ -138,11 +138,23 @@
             "order": -82,
             "parent": "b4c47454-58ef-11e2-bc7b-c82d87200bd5",
             "title": "Lesson 2: Light, Spectra and the Doppler Effect",
-            "description": "",
+            "description": "The Electromagnetic Spectrum (Light)\u00a0A light wave consists of energy in the form of electric and magnetic fields which vibrate perpendicular to one another and are called the electromagnetic spec",
             "metadata": {
                 "created": 1558624554119,
-                "updated": 1558624554119,
-                "uid": "1"
+                "updated": 1558628687,
+                "uid": "1",
+                "readtime": 1,
+                "contentDetails": {
+                    "headings": 1,
+                    "paragraphs": 28,
+                    "schema": [],
+                    "tags": {
+                        "h2": 1,
+                        "p": 28,
+                        "div": 3
+                    },
+                    "elements": 32
+                }
             }
         },
         {
