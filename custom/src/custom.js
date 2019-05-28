@@ -13,6 +13,9 @@ let body = document.body
 root.style.setProperty('--haxcms-base-styles-list-padding-bottom', 'none');
 body.style.setProperty('line-height', '1.75');
 body.style.setProperty('--haxcms-base-styles-list-max-width', 'none');
-body.style.setProperty('--haxcms-color', '#fff');
+
+setTimeout(() => {
+  body.style.setProperty('--haxcms-color', '#fff');
+}, 1000)
 
 console.log('killswitch')
