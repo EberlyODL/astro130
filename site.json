@@ -212,10 +212,10 @@
         {
             "id": "b4c926ac-58ef-11e2-bc7b-c82d87200bd5",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/index.html",
             "order": -74,
             "parent": "b4c47454-58ef-11e2-bc7b-c82d87200bd5",
-            "title": "Lesson 3: Newton\u2019s and Einstein\u2019s Theories of Gravity (Escape Velocity, Spacetime)",
+            "title": "Lesson 3: Newton's and Einstein's Theories of Gravity (Escape Velocity, Spacetime)",
             "description": "",
             "metadata": {
                 "created": 1558624554119,
@@ -226,7 +226,7 @@
         {
             "id": "b4ca4d52-58ef-11e2-bc7b-c82d87200bd5",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/how-does-gravity-keep-objects-in-orbit\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/how-does-gravity-keep-objects-in-orbit\/index.html",
             "order": -72,
             "parent": "b4c926ac-58ef-11e2-bc7b-c82d87200bd5",
             "title": "How Does Gravity Keep Objects in Orbit?",
@@ -240,7 +240,7 @@
         {
             "id": "b4cb4a40-58ef-11e2-bc7b-c82d87200bd5",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/escape-velocity-and-the-definition-of-a-black-hole\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/escape-velocity-and-the-definition-of-a-black-hole\/index.html",
             "order": -70,
             "parent": "b4c926ac-58ef-11e2-bc7b-c82d87200bd5",
             "title": "Escape Velocity and the Definition of a Black Hole",
@@ -254,7 +254,7 @@
         {
             "id": "b4cc3ec8-58ef-11e2-bc7b-c82d87200bd5",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/weightlessness\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/weightlessness\/index.html",
             "order": -68,
             "parent": "b4c926ac-58ef-11e2-bc7b-c82d87200bd5",
             "title": "Weightlessness",
@@ -268,7 +268,7 @@
         {
             "id": "a11ae10e-e159-4dec-a97e-95d137754cac",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/spacetime\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/spacetime\/index.html",
             "order": -66,
             "parent": "b4c926ac-58ef-11e2-bc7b-c82d87200bd5",
             "title": "Spacetime",
@@ -282,7 +282,7 @@
         {
             "id": "09e86f60-a5a6-4d02-8b55-75a99c263191",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newton\u2019s-and-einstein\u2019s-theories-of-gravity-escape-velocity-spacetime\/spacetime\/the-rubber-sheet-analogy-for-spacetime\/index.html",
+            "location": "pages\/unit-outline\/unit-1-spacetime-special-and-general-relativity\/lesson-3-newtons-and-einsteins-theories-of-gravity-escape-velocity-spacetime\/spacetime\/the-rubber-sheet-analogy-for-spacetime\/index.html",
             "order": -64,
             "parent": "a11ae10e-e159-4dec-a97e-95d137754cac",
             "title": "The Rubber Sheet Analogy for Spacetime",
@@ -314,7 +314,7 @@
             "order": -60,
             "parent": "b4cd2efa-58ef-11e2-bc7b-c82d87200bd5",
             "title": "Relativity",
-            "description": "Why Do We Need Relativity?For standard situations like throwing a ball up in the air and describing how and when it will fall down, Newton\u2019s Laws work just fine. However, when we talk about the be",
+            "description": "Why Do We Need Relativity?For standard situations like throwing a ball up in the air and describing how and when it will fall down, Newton's Laws work just fine. However, when we talk about the be",
             "metadata": {
                 "created": 1558624554120,
                 "updated": 1558625378,
@@ -1197,10 +1197,10 @@
         {
             "id": "0d130bf4-be56-40c1-955c-ae7bbc29dde1",
             "indent": 0,
-            "location": "pages\/unit-outline\/unit-3-evaporation-of-black-holes-wormholes-and-time-travel\/lesson-11-evaporating-black-holes\/hawking\u2019s-\u201carea-theorem\u201d\/index.html",
+            "location": "pages\/unit-outline\/unit-3-evaporation-of-black-holes-wormholes-and-time-travel\/lesson-11-evaporating-black-holes\/hawkings-area-theorem\/index.html",
             "order": 64,
             "parent": "e4f43c45-e3b4-4dd4-8990-267db631861e",
-            "title": "Hawking\u2019s \u201cArea Theorem\u201d",
+            "title": "Hawking's \u201cArea Theorem\u201d",
             "description": "",
             "metadata": {
                 "created": 1558624554120,
