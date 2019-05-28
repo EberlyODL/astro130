@@ -8,15 +8,15 @@
         "siteName": "astro130",
         "domain": null,
         "created": 1558624482,
-        "updated": 1558624504,
+        "updated": 1559071803,
         "theme": {
             "element": "learn-two-theme",
             "path": "@lrnwebcomponents\/learn-two-theme\/learn-two-theme.js",
             "name": "Learn"
         },
         "image": "assets\/banner.jpg",
-        "hexCode": "#aeff00",
-        "cssVariable": "",
+        "hexCode": "#e56a00",
+        "cssVariable": "orange",
         "publishing": {
             "git": {
                 "vendor": "github",
